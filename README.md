@@ -6,15 +6,15 @@ O projeto atual esta configurado como um projeto Java Maven e usa JUnit 5 para t
 
 ## Configuracao Atual
 
-| Item | Valor |
-| --- | --- |
-| Linguagem | Java |
-| Build tool | Maven |
-| Versao Java | 21 |
-| Testes | JUnit 5 |
-| Plugin de testes | Maven Surefire |
-| Grupo Maven | `br.com.codingkatas` |
-| Artefato Maven | `coding-katas` |
+| Item | Valor                   |
+| --- |-------------------------|
+| Linguagem | Java                    |
+| Build tool | Maven                   |
+| Versao Java | 21                      |
+| Testes | JUnit 5                 |
+| Plugin de testes | Maven Surefire          |
+| Grupo Maven | `br.com.codingkatas`    |
+| Artefato Maven | `coding-katas-beecrowd` |
 
 ## Estrutura do Projeto
 
