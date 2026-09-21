@@ -27,7 +27,7 @@ jobs:
 
       - name: Build and Test
         run: |
-          ./mvnw clean verify
+          mvn clean verify
 
       - name: SonarQube Analysis
         env:
